@@ -20,7 +20,7 @@ using Windows.Storage;
 using Windows.Storage.Helpers;
 using Windows.UI.Text;
 
-namespace Microsoft.UI.Xaml.Documents.TextFormatting;
+namespace Windows.UI.Xaml.Documents.TextFormatting;
 
 internal static class FontDetailsCache
 {
